@@ -265,13 +265,6 @@ This model could be used to:
 - **Dashboard**: Streamlit app for fraud monitoring
 - **Explainability**: SHAP values for individual predictions
 
-## Author
-
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
-[GitHub Profile]
-
 ## License
 
 This project is open source and available for portfolio purposes.
